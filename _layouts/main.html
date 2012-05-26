@@ -1,0 +1,57 @@
+<!doctype html>
+<meta charset="utf-8">
+<style type="text/css" media="screen">
+  body {
+    background:url(../../../bg.jpg);
+
+    /* typography */
+    font-family: Helvetica, sans-serif;
+  }
+  a {
+    color: #E2007A;
+  }
+  h1 {
+    margin-top:0;
+  }
+  .navigation li {
+      display: inline;
+  }
+  ul.navigation {
+    padding-left:7px;
+  }
+  #logo {
+    background:url(../../../js.eu.png) no-repeat;
+    padding:180px 1em 0 210px;
+    font-style: italic;
+  }
+  #main {
+    /* center on the page */
+    margin: 0 auto 0 auto;
+    padding: 0;
+    width:600px;
+
+    /* colour */
+    background: #FFFFFF;
+  }
+  #content, aside {
+    margin:0;
+    padding: 0 1em 1em 1em;
+  }
+  aside {
+    margin-top:3em;
+    padding-top:1em;
+  }
+  aside {
+    background: #EEEEEE;
+  }
+</style>
+<!-- For more awesome source code, see view-source:http://2012.texasjavascript.com/ -->
+
+<div id="main">
+  <div id="logo">October 6th &amp; 7th, 2012 &bull; Berlin</div>
+  {% include navigation.html %}
+  <div id="content">
+    {{ content }}
+  </div>
+  {% include list_of_posts.html %}
+</div>
