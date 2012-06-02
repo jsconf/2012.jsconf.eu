@@ -18,4 +18,4 @@ We expect to sell out quickly each time.
 
 Do you trust us?
 <a href="http://de.amiando.com/jsconfeu2012.html">YES</a>
-<a href="http://www.cebit.de" rel=nofollow>No</a>
+<a href="http://www.cebit.de" rel="nofollow">No</a>
