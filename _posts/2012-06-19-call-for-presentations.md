@@ -7,7 +7,7 @@ title: Call for Presentations
 
 > “JSConf EU — This is your conference.”
 
-We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (October 6th-7th, Berlin).
+We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (October 6th-7th, Berlin). This Call for Presentation **closes on July 15th**.
 
 This is what we call a “Hybrid CFP”: If you think you have something great to talk about, tell us all about it and we consider your entry. If you know someone who has something great to talk about, nominate them. And if you are interested in hearing about a particular topic, nominate the topic, and we can try and find a match.
 
@@ -86,6 +86,8 @@ Here’s a proposal that we accepted in 2011:
 > From the blindingly obvious (write more javascript) - through the positively heretical (never ever use JSLint - except when it's a really good idea) - to the bizarre (take up needlework), come and be guided toward the bright shiny light where the gods live.
 
 ## Guidelines
+
+Submit your proposal by **July 15th, 23:59:59 CEST**. No excuses.
 
 All talks are **in English**.
 
