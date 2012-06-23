@@ -5,7 +5,7 @@ paginate: 1
 ---
 
 <!-- Front page, one article only -->
-{% for post in site.posts reversed limit:2 %}
+{% for post in site.posts limit:2 %}
   {{ post.content }}
 {% endfor %}
 
