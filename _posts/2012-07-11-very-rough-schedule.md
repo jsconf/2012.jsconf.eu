@@ -7,8 +7,8 @@ title: Very rough schedule
 
 For all of you making travel plans, here is the very rough schedule of things happening around JSConf EU 2012. All ticket holders to JSConf EU 2012 are invited to the parties and Relax.js. The other events will handle their own admission as they are announced.
 
-- Thursday 04. Oct.: JS-related full day event; to be announced.
-- Friday 05. Oct.: Preliminary plans for node.js related event; to be announced.
+- Thursday 04. Oct.: <a href="http://rejectjs.org">Reject.JS</a>
+- Friday 05. Oct.: <a href="http://nodecopter.com">NodeCopter</a>
 - Friday 05. Oct.: Preliminary plans for trainings by our partners; to be announced.
 - Friday 05. Oct. ~ 20:00: Friday night party
 - Saturday 06. Oct.: JSConf Day 1
