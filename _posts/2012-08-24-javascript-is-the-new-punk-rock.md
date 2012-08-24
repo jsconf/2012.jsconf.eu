@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Stuart Memo: JavaScript is the new Punk Rock
-tags: speaker
+category: speaker
 ---
 
 # {{ page.title }}
