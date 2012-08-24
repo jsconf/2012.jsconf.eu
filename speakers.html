@@ -5,8 +5,8 @@ tag: foo
 ---
 
 
- {% for post in site.posts %}
-  {% if.post.tag == "speaker" %}
-  {{ post.content }}
+{% for post in site.posts %}
+  {% if post.tag == "speaker" %}
+    {{ post.content }}
   {% endif %}
 {% endfor %}
