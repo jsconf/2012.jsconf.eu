@@ -1,7 +1,7 @@
 ---
 layout: main
 title: "To hell with jQuery"
-tag: speaker
+category: speaker
 ---
 
 # {{ page.title }}
