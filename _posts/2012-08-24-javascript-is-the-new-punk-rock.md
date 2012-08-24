@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Stuart Memo: JavaScript is the new Punk Rock
+title: "Stuart Memo: JavaScript is the new Punk Rock"
 category: speaker
 ---
 
