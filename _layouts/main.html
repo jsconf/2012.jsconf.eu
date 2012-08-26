@@ -14,6 +14,9 @@
   a {
     color: #E2007A;
   }
+  a:active, a:hover, a:focus {
+    color: hotpink;
+  }
   #logolink {
     color: #000000;
     text-decoration: none;
@@ -68,6 +71,9 @@
   aside {
     background: #DDDDDD;
   }
+  aside.tickets {
+    padding-bottom: 1px;
+  }
   aside.social {
     background: #EEEEEE;
   }
@@ -77,6 +83,7 @@
   h1 {
     text-align: center;
     margin-top: 1.5em;
+    line-height: 1.2em;
   }
   h2 {
     margin-top: 1.5em;
@@ -104,6 +111,7 @@
   <div id="content">
     {{ content }}
   </div>
+  {% include tickets.html %}
   {% include list_of_posts.html %}
   <aside class="social">
     <a href="/calendar.html">Calendar</a>
