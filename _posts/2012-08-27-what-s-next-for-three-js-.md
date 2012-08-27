@@ -4,7 +4,7 @@ title: "What's next for three.js?"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://mrdoob.com"><img src="/images/mr-doob.png" class="speaker" alt="Mr.doob"></a>
 <a href="http://alteredqualia.com"><img src="/images/alteredq.png" class="speaker" alt="AlteredQualia"></a>

@@ -3,7 +3,7 @@ layout: main
 title: Ticket Schedule
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 We are going to sell tickets on three occasions:
 

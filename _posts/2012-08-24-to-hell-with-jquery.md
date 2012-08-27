@@ -4,7 +4,7 @@ title: "To hell with jQuery"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="https://twitter.com/karolinaszczur"><img src="/images/karolina-szczur.jpeg" class="speaker" alt="Karolina Szczur"></a>
 Speaker: <a href="https://twitter.com/karolinaszczur">Karolina Szczur</a>

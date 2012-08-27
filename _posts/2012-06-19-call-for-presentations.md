@@ -3,7 +3,7 @@ layout: main
 title: Call for Presentations
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 > “JSConf EU — This is your conference.”
 

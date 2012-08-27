@@ -3,7 +3,7 @@ layout: main
 title: Final Ticket Sale
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 On Sunday July 1st, 2012, 17:00 CEST is our final regular ticket sale (We may sell a couple super-late tickets close to the conference when we have a better picture how many people are coming over all, but don't count on it).
 

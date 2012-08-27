@@ -4,7 +4,7 @@ title: "Why functional is the new black"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://jabberwocky.eu"><img src="/images/elise-huard.jpeg" class="speaker" alt="Elise Huard"></a>
 Speaker: <a href="http://jabberwocky.eu">Elise Huard</a>

@@ -4,7 +4,7 @@ title: "Inspector Web and the Mystery of the Shadow DOM"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://www.steamclocksw.com"><img src="/images/angelina-fabbro.jpeg" class="speaker" alt="Angelina Fabbro"></a>
 Speaker: <a href="http://www.steamclocksw.com">Angelina Fabbro</a>

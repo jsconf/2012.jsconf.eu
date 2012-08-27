@@ -4,7 +4,7 @@ title: "Break all the rules"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://javascriptweblog.wordpress.com"><img src="/images/angus-croll.png" class="speaker" alt="Angus Croll"></a>
 Speaker: <a href="http://javascriptweblog.wordpress.com">Angus Croll</a>

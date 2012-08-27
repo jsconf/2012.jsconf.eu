@@ -3,7 +3,7 @@ layout: main
 title: Very rough schedule
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 For all of you making travel plans, here is the very rough schedule of things happening around JSConf EU 2012. All ticket holders to JSConf EU 2012 are invited to the parties and Relax.js. The other events will handle their own admission as they are announced.
 

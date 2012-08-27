@@ -4,7 +4,7 @@ title: "JavaScript is the new Punk Rock"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://stuartmemo.com"><img src="/images/stuart-memo.jpeg" class="speaker" alt="Stuart Memo" /></a>
 Speaker: <a href="http://stuartmemo.com">Stuart Memo</a>

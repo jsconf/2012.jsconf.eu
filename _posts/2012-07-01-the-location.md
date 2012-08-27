@@ -3,7 +3,7 @@ layout: main
 title: Everything old is new again
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 This year we'll try something radical – use the same location as in the year before. First of all it was truly the best JSConf EU location ever, then there were a few things that we totally wanted to do the first time around but couldn't, and last not but least, we have some crazy ideas how we can make even more out of this awesome spot.
 
