@@ -6,7 +6,7 @@ category: speaker
 
 # {{ page.title }}
 
-<a href="http://javascriptweblog.wordpress.com"><img src="/images/angus-croll.html" class="speaker" alt="Angus Croll"></a>
+<a href="http://javascriptweblog.wordpress.com"><img src="/images/angus-croll.png" class="speaker" alt="Angus Croll"></a>
 Speaker: <a href="http://javascriptweblog.wordpress.com">Angus Croll</a>
 
 Good programmers follow best practices; great programmers investigate them.
