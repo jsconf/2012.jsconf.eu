@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "Rendering Mona Lisa by Solving Traveling Salesman Problem"
+title: "Rendering Mona Lisa by Solving the Traveling Salesman Problem"
 category: speaker
 ---
 
