@@ -4,7 +4,7 @@ title: "Rendering Mona Lisa by Solving the Traveling Salesman Problem"
 category: speaker
 ---
 
-# {{ page.title }}
+# [{{ page.title }}]({{ page.url }})
 
 <a href="http://dvberkel.github.com/"><img src="/images/daan-van-berkel.jpeg" class="speaker" alt="Daan van Berkel"></a>
 Speaker: <a href="http://dvberkel.github.com/">Daan van Berkel</a>
