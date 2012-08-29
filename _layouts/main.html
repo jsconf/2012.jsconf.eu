@@ -105,6 +105,10 @@
     margin-top:2em;
     text-align: center;
   }
+  div.claimer {
+    font-size:small;
+    text-align:center;
+  }
 </style>
 <script>
   var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-4656061-2']);
@@ -124,6 +128,7 @@
   <div id="content">
     {{ content }}
   </div>
+  {% include navigation.html %}
   {% include tickets.html %}
   {% include list_of_posts.html %}
   <aside class="social">
