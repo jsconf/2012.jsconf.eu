@@ -6,5 +6,8 @@ tag: foo
 
 
 {% for post in site.categories.speaker %}
-  {{ post.content }}
+    <div class="post">
+      {{ post.content }}
+      <p class="end">°</p>
+    </div>
 {% endfor %}

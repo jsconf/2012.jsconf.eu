@@ -6,6 +6,9 @@ paginate: 1
 
 <!-- Front page, one article only -->
 {% for post in site.posts limit:4 %}
-  {{ post.content }}
+  <div class="post">
+    {{ post.content }}
+    <p class="end">°</p>
+  </div>
 {% endfor %}
 
