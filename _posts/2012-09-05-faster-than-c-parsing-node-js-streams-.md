@@ -6,7 +6,7 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
-<a href="http://felixge.de/"><img src="/images/felix-geisendörfer.png" class="speaker" alt="Felix Geisendörfer"></a>
+<a href="http://felixge.de/"><img src="/images/felix-geisendoerfer.png" class="speaker" alt="Felix Geisendörfer"></a>
 Speaker: <a href="http://felixge.de/">Felix Geisendörfer</a>
 
 In 2010 I wrote the first MySQL driver for node.js. I did it in pure JavaScript. It was fast. It was fun.
