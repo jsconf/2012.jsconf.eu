@@ -6,7 +6,7 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
-<a href="http://asciidisco.com"><img src="/images/sebastian-golasch.jpeg" class="speaker" alt="Sebastian Golasch"></a>
+<a href="http://asciidisco.com"><img src="/images/sebastian-golasch.png" class="speaker" alt="Sebastian Golasch"></a>
 Speaker: <a href="http://asciidisco.com">Sebastian Golasch</a>
 
 Hi, I am Prof. JavaScript.
