@@ -28,7 +28,7 @@ For the *Pre Party*:
 
  - Friday, October 5th.
  - Near Kastanienallee / GLS Language School / After [NodeCopter](http://nodecopter.com).
-  - Prater would work, but that’s where we are on Thursday’s already :)
+  - Prater would work, but that’s where we will be for Thursday’s party already :)
 
 For the *After Party*:
 
@@ -40,9 +40,9 @@ For both: we prefer places that are open to the public that we can just crash wi
 For the *Relax.js* brunch:
 
  - Monday, October 8th, ~10:00-15:00.
- - Somewhere nice, chilly.
+ - Somewhere nice, chill.
  - Food buffet.
- - Allows people to hang out before going to the airport/train/way home.
+ - Allows people to come and go and hang out before going to the airport/train/way home.
   - i.e. near public transport, ideally U- & S-Bahn.
 
 <iframe src="https://docs.google.com/a/jsconf.eu/spreadsheet/embeddedform?formkey=dHNBYzNycExfMXdoUWphdnY4enIxWGc6MQ" width="580" height="1040" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
