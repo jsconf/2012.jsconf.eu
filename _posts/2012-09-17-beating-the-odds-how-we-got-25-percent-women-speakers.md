@@ -54,7 +54,7 @@ Since we can’t solve all problems at the same time, we thought we try to see h
 
 Courtney [writes](http://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/):
 
-> So! Getting women to submit content: easy? Um. When I’d talk to men about the conference and ask if they felt like they had an idea to submit for a talk, they’d *always* start brainstorming on the spot. I’m not generalizing — every guy I talked to about speaking was able to come up with an idea, or multiple ideas, right away…and yet, overwhelmingly the women I talked to with the same pitch deferred with a, “well, but I’m not an expert on anything,” or “I wouldn’t know what to submit,” or “yes but I’m not a *lead* [title], so you should talk to my boss and see if he’d want to present.”
+> So! Getting women to submit content: easy? Um. When I’d talk to men about the conference and ask if they felt like they had an idea to submit for a talk, they’d *always* start brainstorming on the spot. I’m not generalizing — every guy I talked to about speaking was able to come up with an idea, or multiple ideas, right away…and yet, overwhelmingly the women I talked to with the same pitch deferred with a, “well, but I’m not an expert on anything,” or “I wouldn’t know what to submit,” or “yes but I’m not a *lead* \[title\], so you should talk to my boss and see if he’d want to present.”
 
 We know there are plenty of men that react in the same way and that would benefit from encouragement, but the ratio is so far off (see the numbers below) that we decided to make a special effort to reach out to women and ask them to submit to the CFP.
 
