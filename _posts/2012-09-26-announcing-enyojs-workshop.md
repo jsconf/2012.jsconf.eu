@@ -13,4 +13,4 @@ when writing Web and Mobile Applications.
 
 This will be an hands-on Workshop, so expect less talk and more action :)
 
-Details and Signup: http://enyobootcampberlin.eventbrite.com
+[Details and Signup](http://enyobootcampberlin.eventbrite.com)
