@@ -23,4 +23,4 @@ They write:
 > 
 > To join the workshop, you don't need to have any testing experience, but you should have basic knowledge of node.js. You will also need to bring your own computer. We'll set you up with everything else at the start of the workshop. 
 
-[Details and Signup](http://enyobootcampberlin.eventbrite.com)
+[Details and Signup](http://saucejs.eventbrite.com)
