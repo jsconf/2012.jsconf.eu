@@ -9,6 +9,7 @@ category: speaker
 <a href="http://-"><img src="/images/julian-viereck.jpeg" class="speaker" alt="Julian Viereck"></a>
 Speaker: <a href="http://-">Julian Viereck</a>
 
+<pre>
 A: "Dammit, we can't do this on the web :("
 B: "You know, it's called the open web - you can change it!"
 A: "I can't just fork the web from GitHub and make it do the things I want."
@@ -17,6 +18,7 @@ A: "But then it's just in one browser, not the web?"
 B: "You got to start somewhere."
 A: "Right... Can you help me get going?"
 B: "Sure!"
+</pre>
 
 Implementing competitive printing support for PDF.JS is not possible with the current state of the web. Therefore, I started to work on some new `mozPrintCallback` API. 
 
