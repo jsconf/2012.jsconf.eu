@@ -1,9 +1,17 @@
 ---
 layout: main
-title: Very rough schedule
+title: The Schedule
 ---
 
 # [{{ page.title }}]({{ page.url }})
+
+[Skip to the week schedule](#week)
+
+  {% include schedule.html %}
+
+  <a name="week">&nbsp;</a>
+
+## The Week Schedule
 
 For all of you making travel plans, here is the very rough schedule of things happening around JSConf EU 2012. All ticket holders to JSConf EU 2012 are invited to the parties and Relax.js. The other events will handle their own admission as they are announced.
 
