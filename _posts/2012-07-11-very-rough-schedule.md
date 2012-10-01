@@ -7,10 +7,16 @@ title: Very rough schedule
 
 For all of you making travel plans, here is the very rough schedule of things happening around JSConf EU 2012. All ticket holders to JSConf EU 2012 are invited to the parties and Relax.js. The other events will handle their own admission as they are announced.
 
-- Thursday 04. Oct.: <a href="http://rejectjs.org">Reject.JS</a>
-- Friday 05. Oct.: <a href="http://nodecopter.com">NodeCopter</a>
-- Friday 05. Oct.: Preliminary plans for trainings by our partners; to be announced.
-- Friday 05. Oct. ~ 20:00: Friday night party
+- Thursday 04. Oct.:
+  - 09:00-19:00: [Reject.JS](http://rejectjs.org)
+  - 19:00-∞: Reject.JS After Party at [Prater](http://www.pratergarten.de/d/). Open for all.
+
+- Friday 05. Oct.:
+  - 10:00-19:00: [NodeCopter](http://nodecopter.com)
+  - 11:00-15:00: [Sauce.js: Test Automation Workshop](http://2012.jsconf.eu/2012/09/27/announcing-saucejs-workshop.html).
+  - 13:00-17:00: [EnjoJS Workshop](http://2012.jsconf.eu/2012/09/26/announcing-enyojs-workshop.html)
+  - 19:00-∞: JSConf EU Pre-Party.
+
 - Saturday 06. Oct.: JSConf Day 1
 - Saturday 06. Oct. ~ 20:00: Saturday night party
 - Sunday 07. Oct.: JSConf Day 2
