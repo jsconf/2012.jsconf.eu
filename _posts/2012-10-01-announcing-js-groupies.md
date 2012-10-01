@@ -7,7 +7,7 @@ title: "Announcing JS Groupies"
 
 ## Weekend program for non-attendees
 
-For all of you who do **not** have a JS Conf EU ticket but still love JavaScript, or love someone who loves JavaScript and followed them to Berlin for the weekend, come out and play with other JS Groupies!
+For all of you who do **not** have a JSConf EU ticket but still love JavaScript, or love someone who loves JavaScript and followed them to Berlin for the weekend, come out and play with other JS Groupies!
 
 [Rachel](https://twitter.com/onna_no_hito) is organizing fun activities for you over the weekend. Come out and play! Come to all or just some of these events.
 
@@ -30,7 +30,7 @@ Dinner at the lovely [Sophieneck Restaurant](http://www.visitberlin.de/en/spot/s
 ### Party.js
 #### 8pm, Alte Münze, [Molkenmarkt 2](https://maps.google.com/maps?q=Molkenmarkt+2&hl=en&sll=52.519171,13.406091&sspn=0.533967,1.321106&t=m&hnear=Molkenmarkt+2,+10179+Berlin,+Germany&z=16)
 
-Join JS Conf EU conference attendees back at Alte Münze and celebrate a great day with great beer!
+Join JSConf EU conference attendees back at Alte Münze and celebrate a great day with great beer!
 
 Note: If you come to dinner, we will all go to the party together, otherwise you must get a party ticket for yourself.
 
@@ -56,4 +56,4 @@ Join us for more breaking bread. Dinner at [Hofbrauhaus](http://www.hofbraeuhaus
 ### Party.js
 #### 8pm, TBA
 
-Party.js part II! Wind down from a great weekend with the whole @JSConfEU + @BerlinJS family
+Party.js part II! Wind down from a great weekend with the whole [@JSConfEU](https://twitter.com/jsconfeu) + [@BerlinJS](https://twitter.com/berlinjs) family
