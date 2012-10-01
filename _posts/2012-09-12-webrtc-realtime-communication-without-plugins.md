@@ -6,6 +6,8 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<a href="https://www.google.com/search?q=Sam%20Dutton"><img src="/images/sam-dutton.jpg" class="speaker" alt="Sam Dutton"></a>
+
 Speaker: <a href="https://www.google.com/search?q=Sam%20Dutton">Sam Dutton</a>
 
 **Imagine a world where your phone, TV and computer could all communicate on a common platform. Imagine it was easy to add video chat to your web application. That's the vision of WebRTC.**
