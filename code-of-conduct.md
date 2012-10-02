@@ -5,17 +5,20 @@ layout: main
 
 # Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at JSConf EU are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
+All attendees, speakers, sponsors and volunteers at JSConf EU are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
 
 *tl;dr: Don’t be a Jerk*
 
-### Contact
+## Need Help? Contact Tiffany
 
-In case of anything, do not hesitate to get in touch with Tiffany Conroy: [@theophani](http://twitter.com/theophani), [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu), +4917632578373.
+Tiffany Conroy  
+Twitter: [@theophani](http://twitter.com/theophani)  
+Email: [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu)  
+Phone(de): +4917632578373
 
 ## The Quick Version
 
-JSConf EU is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference *without a refund* at the discretion of the conference organizers.
+JSConf EU is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference *without a refund* at the discretion of the conference organizers.
 
 ## The Less Quick Version
 
@@ -28,6 +31,8 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a grey conference shirt with a rubik’s cube with all pink sides.
+
+In case you can’t find a staff member, Tiffany Conroy is always there for you: [@theophani](http://twitter.com/theophani), [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu), +4917632578373.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
