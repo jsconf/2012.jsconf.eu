@@ -14,6 +14,6 @@ Molkenmarkt 2<br>
 
 <p><a href="http://www.alte-muenze-berlin.com/Produktionshalle/index.html">More Info</a></p>
 
-<iframe width="570" height="570" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Alte+M%C3%BCnze,+Berlin&amp;aq=&amp;sll=52.523027,13.410404&amp;sspn=0.001044,0.003058&amp;t=m&amp;ie=UTF8&amp;hq=M%C3%BCnze+Berlin+Ehem.+Staatliche+M%C3%BCnze+zu&amp;hnear=Berlin,+Germany&amp;ll=52.516116,13.40847&amp;spn=0.015669,0.025706&amp;z=15&amp;output=embed">
+<iframe width="570" height="570" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Alte+M%C3%BCnze,+Berlin&amp;aq=&amp;sll=52.523027,13.410404&amp;sspn=0.001044,0.003058&amp;t=m&amp;ie=UTF8&amp;hq=M%C3%BCnze+Berlin+Ehem.+Staatliche+M%C3%BCnze+zu&amp;hnear=Berlin,+Germany&amp;ll=52.516116,13.40847&amp;spn=0.015669,0.025706&amp;z=15&amp;output=embed&amp;iwloc=end">
 </iframe>
 
