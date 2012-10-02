@@ -17,7 +17,7 @@ For all of you making travel plans, here is the very rough schedule of things ha
 
 - Thursday 04. Oct.:
   - 09:00-19:00: [Reject.JS](http://rejectjs.org)
-  - 19:00-∞: Reject.JS After Party at [Prater](http://www.pratergarten.de/d/). Open for all.
+  - 19:30-∞: Reject.JS After Party at [Stadtbad Oderberger](http://rejectjs.org/#venue). Open for all.
 
 - Friday 05. Oct.:
   - 10:00-19:00: [NodeCopter](http://nodecopter.com)
