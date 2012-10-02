@@ -9,7 +9,7 @@ category: speaker
 <a href="http://-"><img src="/images/julian-viereck.jpeg" class="speaker" alt="Julian Viereck"></a>
 Speaker: <a href="http://-">Julian Viereck</a>
 
-<pre>
+<pre style="white-space: pre-wrap">
 A: "Dammit, we can't do this on the web :("
 B: "You know, it's called the open web - you can change it!"
 A: "I can't just fork the web from GitHub and make it do the things I want."
