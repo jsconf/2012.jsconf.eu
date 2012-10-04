@@ -6,7 +6,7 @@ title: Bloomberg
 
 # [{{ page.title }}]({{ page.url }})
 
-<img src="/images/sponsor-logos/bloomberg.png" class="sponsor" />
+<img src="/images/sponsor-logos/bloomberg.jpg" class="sponsor" />
 [Bloomberg](http://www.bloomberg.com/company) is the world's most trusted source of information for businesses and
 professionals. Bloomberg combines innovative technology with unmatched
 analytic, data, news, display and distribution capabilities, to deliver

@@ -8,6 +8,9 @@ layout: main
 
 {% for post in site.posts %}
   {% if.post.tag == "sponsor" %}
-  {{ post.content }}
+  <div class="post">
+    {{ post.content }}
+    <br style="clear:both;">
+  </div>
   {% endif %}
 {% endfor %}

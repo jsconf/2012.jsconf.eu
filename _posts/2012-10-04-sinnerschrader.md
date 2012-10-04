@@ -6,4 +6,4 @@ title: SinnerSchrader
 
 # [{{ page.title }}]({{ page.url }})
 
-<img src="/images/sponsor-logos/sinnerschrader.png" class="sponsor" />
+<img src="/images/sponsor-logos/sinnerschrader.png" class="sponsor-no-text" />
