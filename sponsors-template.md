@@ -6,5 +6,5 @@ title: _Sponsor_
 
 # [{{ page.title }}]({{ page.url }})
 
-<img src="/images/sponsors/couchdb.png" class="sponsor" />
+<img src="/images/sponsor-logos/xxx.png" class="sponsor" />
 
