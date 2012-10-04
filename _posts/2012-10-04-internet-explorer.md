@@ -1,6 +1,6 @@
 ---
 layout: main
-tag: sponsor
+tag: sponsor-main
 title: Internet Explorer
 ---
 

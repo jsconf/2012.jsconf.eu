@@ -7,7 +7,34 @@ layout: main
 <!-- Uncomment the part below and tag your post as shown above, but with "sponsor" -->
 
 {% for post in site.posts %}
-  {% if.post.tag == "sponsor" %}
+  {% if.post.tag == "sponsor-special" %}
+  <div class="post">
+    {{ post.content }}
+    <br style="clear:both;">
+  </div>
+  {% endif %}
+{% endfor %}
+
+{% for post in site.posts %}
+  {% if.post.tag == "sponsor-main" %}
+  <div class="post">
+    {{ post.content }}
+    <br style="clear:both;">
+  </div>
+  {% endif %}
+{% endfor %}
+
+{% for post in site.posts %}
+  {% if.post.tag == "sponsor-support" %}
+  <div class="post">
+    {{ post.content }}
+    <br style="clear:both;">
+  </div>
+  {% endif %}
+{% endfor %}
+
+{% for post in site.posts %}
+  {% if.post.tag == "sponsor-custom" %}
   <div class="post">
     {{ post.content }}
     <br style="clear:both;">

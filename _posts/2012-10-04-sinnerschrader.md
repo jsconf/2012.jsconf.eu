@@ -1,6 +1,6 @@
 ---
 layout: main
-tag: sponsor
+tag: sponsor-special
 title: SinnerSchrader
 ---
 
