@@ -22,7 +22,7 @@ For all of you making travel plans, here is the very rough schedule of things ha
 - Friday 05. Oct.:
   - 09:00-19:30: [NodeCopter](http://nodecopter.com)
   - 11:00-15:00: [Sauce.js: Test Automation Workshop](http://2012.jsconf.eu/2012/09/27/announcing-saucejs-workshop.html).
-  - 13:00-17:00: [EnjoJS Workshop](http://2012.jsconf.eu/2012/09/26/announcing-enyojs-workshop.html)
+  - 13:00-17:00: [EnyoJS Workshop](http://2012.jsconf.eu/2012/09/26/announcing-enyojs-workshop.html)
   - 19:00-∞: JSConf EU Pre-Party.
 
 - Saturday 06. Oct.: JSConf Day 1
