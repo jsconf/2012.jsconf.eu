@@ -73,6 +73,10 @@
   aside.tickets {
     padding-bottom: 1px;
   }
+  aside.sponsors {
+    background-color: #FFFFFF;
+    padding-bottom: 1px;
+  }
   aside.social {
     background: #EEEEEE;
   }
@@ -112,12 +116,14 @@
     float:right;
     margin:0 0 1em 1em;
   }
-
   .sponsor-no-text {
     width: 90%;
     margin: 0 5%;
   }
-
+  .sponsorfooter {
+    width: 160px;
+    margin: 10px;
+  }
   div.post {
     margin-bottom: 6em;
   }
@@ -160,6 +166,7 @@
     <a href="https://twitter.com/jsconfeu">Twitter</a>
     <a href="https://plus.google.com/114805666032419693531" rel="publisher">Google+</a>
   </aside>
+  {% include sponsors.html %}
 </div>
 <script type="text/javascript">
   var _gauges = _gauges || [];
