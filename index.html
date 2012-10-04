@@ -5,7 +5,7 @@ paginate: 1
 ---
 
 <!-- Front page, one article only -->
-{% for post in site.posts limit:4 %}
+{% for post in site.posts limit:5 %}
   {% if.post.tag != "sponsor" %}
   <div class="post">
     {{ post.content }}
