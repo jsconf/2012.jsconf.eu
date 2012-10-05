@@ -7,10 +7,18 @@ paginate: 1
 <!-- Front page, one article only -->
 {% for post in site.posts limit:23 %}
   {% if.post.tag != "sponsor" %}
+  {% if.post.tag != "sponsor-special" %}
+  {% if.post.tag != "sponsor-main" %}
+  {% if.post.tag != "sponsor-custom" %}
+  {% if.post.tag != "sponsor-support" %}
   <div class="post">
     {{ post.content }}
     <p class="end">°</p>
   </div>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endif %}
   {% endif %}
 {% endfor %}
 
