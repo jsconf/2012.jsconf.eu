@@ -11,7 +11,7 @@ That’s why we are, like every year, opening our conference parties to the gene
 
 We are inviting the Berlin tech community (that is *you*) and their friends to hang out with everybody that is in town for JSConf EU.
 
-The main party is on Saturday, October 7th, 20:30, if you have to make your pick, this is the one to attend.
+The main party is on Saturday, October 6th, 20:30, if you have to make your pick, this is the one to attend.
 
 If Saturday doesn’t work for you, we are also meeting on Thursday, Friday and Sunday.
 
