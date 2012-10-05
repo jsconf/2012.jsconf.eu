@@ -7,6 +7,8 @@ title: "The Official Farewell Brunch: Relax with us at relax.js!"
 
 ## Join us Monday daytime for Brunch!
 
+<img src="/images/relax.js-banner.png" alt="relax.js"/><br/>
+
 **We hate goodbyes.** However, we understand you probably have to head home. What better way to bid farewell to new found JS friends than over strong coffee, mimosas, eggs, bacon and [matjes][matjes]<small>*</small>? What's more, we've picked a location that is just a couple minutes on foot from Berlin Hauptbahnhof (Central Station). When it does come time to part company, you will be well provided for with transport.
 
 relax.js will take place at the [Zollpackhof Restaurant][zollpackhof], just across the river from the official home of German Chancellor [Angela Merkel][merkel].
