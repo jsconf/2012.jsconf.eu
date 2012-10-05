@@ -5,7 +5,8 @@ paginate: 1
 ---
 
 <!-- Front page, one article only -->
-{% for post in site.posts limit:23 %}
+{% for post in site.posts limit:30 %}
+  {% if.post.category != "speaker" %}
   {% if.post.tag != "sponsor" %}
   {% if.post.tag != "sponsor-special" %}
   {% if.post.tag != "sponsor-main" %}
@@ -15,6 +16,7 @@ paginate: 1
     {{ post.content }}
     <p class="end">°</p>
   </div>
+  {% endif %}
   {% endif %}
   {% endif %}
   {% endif %}
