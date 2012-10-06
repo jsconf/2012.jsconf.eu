@@ -28,5 +28,6 @@ All ticket holders to JSConf EU 2012 are invited to the parties and Relax.js. Th
 ## Conference Schedule Overview
 
 ### [→ Full conference schedule with talk descriptions](/schedule.html)
+### [→ Google spreadsheet of schedule]()
 
 {% include schedule.html %}
