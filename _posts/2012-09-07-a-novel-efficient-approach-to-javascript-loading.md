@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/mGENRKrdoGY" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <div class="speaker">
 <a href="https://www.google.com/search?q=Malte%20Ubl%20and%20John%20Hjelmstad"><img src="/images/malte-and-john.jpg" width="200" alt="Malte Ubl and John Hjelmstad"></a>
 </div>
