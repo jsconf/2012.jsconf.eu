@@ -19,3 +19,4 @@ Speakers:<br/>
 We'll present a new method to load JavaScript written with CommonJS, AMD or any other module system in the browser that is fundamentally different from and often more efficient than the current state of the art.
 
 <br style="clear: both;" />
+
