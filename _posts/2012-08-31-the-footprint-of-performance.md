@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ZhshEZIV2F4" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://www.antforge.org/blog"><img src="/images/michael-starzinger.png" class="speaker" alt="Michael Starzinger"></a>
 Speaker: <a href="http://www.antforge.org/blog">Michael Starzinger</a>
 
