@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/zgt-jNqbxF8" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://substack.net"><img src="/images/james-halliday.png" class="speaker" alt="James Halliday"></a>
 Speaker: <a href="http://substack.net">James Halliday</a>
 
