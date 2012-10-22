@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/d-xVOke3ync" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://florian.loitsch.com"><img src="/images/florian-loitsch.jpeg" class="speaker" alt="Florian Loitsch"></a>
 Speaker: <a href="http://florian.loitsch.com">Florian Loitsch</a>
 
