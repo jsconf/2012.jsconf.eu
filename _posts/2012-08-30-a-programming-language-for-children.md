@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qDZ5Ku6whi0" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://maryrosecook.com"><img src="/images/mary-rose-cook.jpeg" class="speaker" alt="Mary Rose Cook"></a>
 Speaker: <a href="http://maryrosecook.com">Mary Rose Cook</a>
 
