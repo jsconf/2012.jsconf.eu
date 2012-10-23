@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/MFtijdklZDo" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://javascriptweblog.wordpress.com"><img src="/images/angus-croll.png" class="speaker" alt="Angus Croll"></a>
 Speaker: <a href="http://javascriptweblog.wordpress.com">Angus Croll</a>
 
