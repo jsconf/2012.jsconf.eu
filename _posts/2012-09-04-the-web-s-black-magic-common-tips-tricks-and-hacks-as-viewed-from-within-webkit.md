@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9rizDPIIYEY" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <div class="speaker">
 <a href="http://iammatt.de/laney"><img src="/images/matthew-delaney.jpeg" width="200" alt="Matthew Delaney"></a>
 <a href="http://www.flukiness.com/portfolio/"><img src="/images/jing-jin.png" width="200" alt="Jing Jin"></a>
