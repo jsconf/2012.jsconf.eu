@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PN8Eg1K9xjE" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://stuartmemo.com"><img src="/images/stuart-memo.jpeg" class="speaker" alt="Stuart Memo" /></a>
 Speaker: <a href="http://stuartmemo.com">Stuart Memo</a>
 
