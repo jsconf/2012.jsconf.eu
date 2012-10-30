@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3UTIcQYQ8Rw" frameborder="0" allowfullscreen="true">
+</iframe>
+
 Speaker: <a href="http://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Heijlsberg</a>
 and <a href="http://blogs.msdn.com/b/lukeh/">Luke Hoban</a>
 
