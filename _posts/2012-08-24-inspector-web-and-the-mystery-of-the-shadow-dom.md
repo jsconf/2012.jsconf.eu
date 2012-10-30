@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/JNjnv-Gcpnw" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://www.steamclocksw.com"><img src="/images/angelina-fabbro.jpeg" class="speaker" alt="Angelina Fabbro"></a>
 Speaker: <a href="http://www.steamclocksw.com">Angelina Fabbro</a>
 
