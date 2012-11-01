@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/uXS_-JRsB8M" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://alexsexton.com/"><img src="/images/alex-sexton.jpeg" class="speaker" alt="Alex Sexton"></a>
 Speaker: <a href="http://alexsexton.com/">Alex Sexton</a>
 
