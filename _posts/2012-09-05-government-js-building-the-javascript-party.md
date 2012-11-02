@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lZYhCduUlqo" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://www.maxogden.com"><img src="/images/max-ogden.png" class="speaker" alt="Max Ogden"></a>
 Speaker: <a href="http://www.maxogden.com">Max Ogden</a>
 
