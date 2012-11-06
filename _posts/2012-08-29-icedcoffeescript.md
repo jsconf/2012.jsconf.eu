@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wwheL5TP_vE" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://maxtaco.github.com/coffee-script/"><img src="/images/maxwell-krohn.jpeg" class="speaker" alt="Maxwell Krohn"></a>
 Speaker: <a href="http://maxtaco.github.com/coffee-script/">Maxwell Krohn</a>
 
