@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kul3HO3WRgI" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://wingolog.org/"><img src="/images/andy-wingo.jpeg" class="speaker" alt="Andy Wingo"></a>
 Speaker: <a href="http://wingolog.org/">Andy Wingo</a>
 
