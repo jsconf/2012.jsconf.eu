@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "JavaScripCore's DFG JIT"
+title: "JavaScriptCore's DFG JIT"
 category: speaker
 ---
 
