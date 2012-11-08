@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yk6t4kRN53w" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://blog.lassus.se"><img src="/images/olov-lassus.jpeg" class="speaker" alt="Olov Lassus"></a>
 Speaker: <a href="http://blog.lassus.se">Olov Lassus</a>
 
