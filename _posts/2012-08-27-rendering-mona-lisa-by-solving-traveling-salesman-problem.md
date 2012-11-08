@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/eoaHsSmTQ2I" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://dvberkel.github.com/"><img src="/images/daan-van-berkel.jpeg" class="speaker" alt="Daan van Berkel"></a>
 Speaker: <a href="http://dvberkel.github.com/">Daan van Berkel</a>
 
