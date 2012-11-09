@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Kdwwvps4J9A" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://felixge.de/"><img src="/images/felix-geisendoerfer.png" class="speaker" alt="Felix Geisendörfer"></a>
 Speaker: <a href="http://felixge.de/">Felix Geisendörfer</a>
 
