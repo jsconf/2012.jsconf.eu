@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CIY6qNk1zy0" frameborder="0" allowfullscreen="true">
+</iframe>
+
 Speaker: <a href="http://www.bundyo.org/">Kirill Safonov</a>
 
 Usually, when you make changes to code you need to imagine what this
