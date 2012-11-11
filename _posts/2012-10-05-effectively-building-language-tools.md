@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Pjh58l5OgSQ" frameborder="0" allowfullscreen="true">
+</iframe>
+
 Speaker: <a href="http://www.lclnet.nl/">Lennart Kats</a>
 
 JavaScript has a vivid ecosystem of a passionate developer community,
