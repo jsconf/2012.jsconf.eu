@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/y4lBEZTThvg" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://remysharp.com"><img src="/images/remy-sharp.jpeg" class="speaker" alt="Remy Sharp"></a>
 Speaker: <a href="http://remysharp.com">Remy Sharp</a>
 
