@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/unEuPvA2wnM" frameborder="0" allowfullscreen="true">
+</iframe>
+
 Speaker: <a href="https://www.facebook.com/wolffiex">Adam Wolff</a>
 
 Facebook chat used to be notoriously unreliable. User complaints about
