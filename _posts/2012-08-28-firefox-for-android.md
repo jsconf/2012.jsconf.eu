@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yRI38CIYXDo" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://blog.margaretleibovic.com/"><img src="/images/margaret-leibovic.png" class="speaker" alt="Margaret Leibovic"></a>
 Speaker: <a href="http://blog.margaretleibovic.com/">Margaret Leibovic</a>
 
