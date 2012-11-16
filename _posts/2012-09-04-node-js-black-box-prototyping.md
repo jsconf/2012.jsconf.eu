@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/gur5C_6XfeU" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://nexxylove.tumblr.com"><img src="/images/emily-rose.jpeg" class="speaker" alt="Emily Rose"></a>
 Speaker: <a href="http://nexxylove.tumblr.com">Emily Rose</a>
 
