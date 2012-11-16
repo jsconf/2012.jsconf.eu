@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PtD-WKSC6ak" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://johnbender.us"><img src="/images/john-bender.jpeg" class="speaker" alt="John Bender"></a>
 Speaker: <a href="http://johnbender.us">John Bender</a>
 
