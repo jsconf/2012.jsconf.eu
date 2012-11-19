@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/NyClWddeO_A" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://www.2ality.com/"><img src="/images/axel-rauschmayer.jpeg" class="speaker" alt="Axel Rauschmayer"></a>
 Speaker: <a href="http://www.2ality.com/">Axel Rauschmayer</a>
 
