@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/uPgZ_om6xfk" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://asciidisco.com"><img src="/images/sebastian-golasch.png" class="speaker" alt="Sebastian Golasch"></a>
 Speaker: <a href="http://asciidisco.com">Sebastian Golasch</a>
 
