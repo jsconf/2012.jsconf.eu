@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3vIVcDFoKvs" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://saucelabs.com"><img src="/images/jason-huggins.png" class="speaker" alt="Jason Huggins"></a>
 Speaker: <a href="http://saucelabs.com">Jason Huggins</a>
 
