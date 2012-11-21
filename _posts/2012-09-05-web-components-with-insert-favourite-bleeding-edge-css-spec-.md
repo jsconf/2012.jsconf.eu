@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/FO3hTypPB1U" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://nimbupani.com"><img src="/images/divya-manian.jpeg" class="speaker" alt="Divya Manian"></a>
 Speaker: <a href="http://nimbupani.com">Divya Manian</a>
 
