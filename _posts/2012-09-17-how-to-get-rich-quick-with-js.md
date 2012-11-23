@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/bStff9X0oYI" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://twitter.com/twtomcat"><img src="/images/markus-leutwyler.jpeg" class="speaker" alt="Markus Leutwyler"></a>
 Speaker: <a href="http://twitter.com/twtomcat">Markus Leutwyler</a>
 
