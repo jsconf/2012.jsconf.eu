@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cT9f-04K6JI" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://-"><img src="/images/julian-viereck.jpeg" class="speaker" alt="Julian Viereck"></a>
 Speaker: <a href="http://-">Julian Viereck</a>
 
@@ -20,6 +23,6 @@ A: "Right... Can you help me get going?"
 B: "Sure!"
 </pre>
 
-Implementing competitive printing support for PDF.JS is not possible with the current state of the web. Therefore, I started to work on some new `mozPrintCallback` API. 
+Implementing competitive printing support for PDF.JS is not possible with the current state of the web. Therefore, I started to work on some new `mozPrintCallback` API.
 
 In this talk, I will share my experience with proposing a new API, how to implement it in a browser and how even hacking C++ code can be fun.
