@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3ujq55fCx6o" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://jabberwocky.eu"><img src="/images/elise-huard.jpeg" class="speaker" alt="Elise Huard"></a>
 Speaker: <a href="http://jabberwocky.eu">Elise Huard</a>
 
