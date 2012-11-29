@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/hac-ThiXZp0" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://lcfrs.org"><img src="/images/neuman-vong.jpeg" class="speaker" alt="Neuman "></a>
 Speaker: <a href="http://lcfrs.org">Neuman Vong</a>
 
