@@ -6,6 +6,9 @@ category: speaker
 
 # [{{ page.title }}]({{ page.url }})
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qzJ0hn1mHOw" frameborder="0" allowfullscreen="true">
+</iframe>
+
 <a href="http://garann.com"><img src="/images/garann-means.jpeg" class="speaker" alt="Garann Means"></a>
 Speaker: <a href="http://garann.com">Garann Means</a>
 
