@@ -98,7 +98,7 @@ There is *a lot* more work involved to get women to submit to a tech conference.
 
 Our highest ranked talk is from a women and we know we wouldn’t have gotten that talk without the outreach we did.
 
-The most common feedback Tiffany got for [We Are All Wesome](http://weareallaweso.me) was that people don’t care about the gender of the speaker, they just want a great talk. We agree: our industry systematically biases against 50% of great speakers and misses out on a significant amount of talks, topics, discussion and thus progress. We hope to do our little part to get this solved.
+The most common feedback Tiffany got for [We Are All Awesome](http://weareallaweso.me) was that people don’t care about the gender of the speaker, they just want a great talk. We agree: our industry systematically biases against 50% of great speakers and misses out on a significant amount of talks, topics, discussion and thus progress. We hope to do our little part to get this solved.
 
 Here are few select statistics for women in computing:
 
